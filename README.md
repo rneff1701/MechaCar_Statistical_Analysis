@@ -15,6 +15,7 @@ The Suspension_Coil csv was imported into R and then converted into a data frame
 
 ## T-Tests on Suspension Coils
 
+
 ## Study Design: MechaCar vs Competition
 
 - What metric or metrics are you going to test?
