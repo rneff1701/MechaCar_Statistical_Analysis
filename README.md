@@ -15,10 +15,11 @@ The Suspension_Coil csv was imported into R and then converted into a data frame
 
 ## T-Tests on Suspension Coils
 
+![t_tests](https://user-images.githubusercontent.com/95188079/161436854-305027d7-6649-4b93-be7d-4dda39e0b9c8.png)
+
 
 ## Study Design: MechaCar vs Competition
-
-- What metric or metrics are you going to test?
-- What is the null hypothesis or alternative hypothesis?
-- What statistical test would you use to test the hypothesis? And why?
-- What data is needed to run the statistical test?
+- What metric or metrics are you going to test?  Given the current price of gas I would want to test fuel efficiency for city versus highway driving.
+- What is the null hypothesis or alternative hypothesis?  Null hypothesis would be cars in the same class have the same fuel efficiency for city and highway driving.  The alternative hypothesis would be they are not the same.
+- What statistical test would you use to test the hypothesis? And why?  I would run T and Anova tests to analyze the data.
+- What data is needed to run the statistical test?  Fuel efficiency data for city and highway driving from a sample of cars across each class.
